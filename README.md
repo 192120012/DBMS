@@ -31,6 +31,8 @@
 
 ## Experiment 5 output
 ![image](https://user-images.githubusercontent.com/112066316/194087680-8c1c0a7e-56f8-451b-b413-2b182e211ad3.png)
+![image](https://user-images.githubusercontent.com/112066316/194087878-621a515b-7fd5-460f-a671-41e9cc3cffe6.png)
+
 
 
 

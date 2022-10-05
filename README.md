@@ -70,6 +70,8 @@
 
 ## Experiment 12
 ![image](https://user-images.githubusercontent.com/112066316/194107480-ad685cd9-52af-4f6e-853b-00397637a3b2.png)
+![image](https://user-images.githubusercontent.com/112066316/194107699-c588265c-66ad-4873-91ec-2a3c60480e42.png)
+
 
 
 

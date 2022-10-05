@@ -38,6 +38,11 @@
 ![image](https://user-images.githubusercontent.com/112066316/194089418-5cf8f866-870c-417f-9839-048d1580a06d.png)
 ![image](https://user-images.githubusercontent.com/112066316/194089840-2480c8d0-4057-4758-8837-84fea5379182.png)
 
+##Experiment 6 output
+![image](https://user-images.githubusercontent.com/112066316/194090340-44e51bf1-c058-4d77-8cc1-50b84ab61da2.png)
+
+
+
 
 
 

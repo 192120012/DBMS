@@ -60,6 +60,10 @@
 ![image](https://user-images.githubusercontent.com/112066316/194104029-390ef671-64e7-4c23-af76-0a719ba493b1.png)
 ![image](https://user-images.githubusercontent.com/112066316/194104459-25242f1b-7e84-49c9-9d7a-40412a1b0ff0.png)
 
+## Experiment 10
+![image](https://user-images.githubusercontent.com/112066316/194105151-4c0630dd-46d3-4236-b154-90b072e59ec9.png)
+
+
 
 
 

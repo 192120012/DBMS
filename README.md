@@ -80,6 +80,10 @@
 ## Experiment 14 output
 ![image](https://user-images.githubusercontent.com/112066316/194260553-08002e09-cab0-48f4-8261-eca34e408074.png)
 
+## Experiment 15 output
+![image](https://user-images.githubusercontent.com/112066316/194260835-b5f8faa4-d6d8-4690-8470-d778c16f8de6.png)
+
+
 
 
 

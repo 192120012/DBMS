@@ -103,6 +103,10 @@
 ![image](https://user-images.githubusercontent.com/112066316/194505883-673dd268-ddd7-45a0-849e-9a5ef729864c.png)
 ![image](https://user-images.githubusercontent.com/112066316/194506008-62a41f42-efed-4ab4-84dc-00c030ef1abf.png)
 
+## Experiment 22 output
+![image](https://user-images.githubusercontent.com/112066316/194506219-644df9f0-d5f7-4d00-8017-46426db09a90.png)
+
+
 
 
 

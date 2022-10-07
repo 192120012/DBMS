@@ -105,6 +105,8 @@
 
 ## Experiment 22 output
 ![image](https://user-images.githubusercontent.com/112066316/194506219-644df9f0-d5f7-4d00-8017-46426db09a90.png)
+![image](https://user-images.githubusercontent.com/112066316/194506495-d59ac02b-f893-4547-a58c-638babdaf457.png)
+
 
 
 

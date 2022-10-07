@@ -111,6 +111,10 @@
 ![image](https://user-images.githubusercontent.com/112066316/194506822-8a17b6a8-ace6-4e24-9b9c-142c44e2a383.png)
 ![image](https://user-images.githubusercontent.com/112066316/194507039-3b966a69-8ddf-4a47-968f-448342c4811b.png)
 
+## Experiment 24 output
+![image](https://user-images.githubusercontent.com/112066316/194507254-c9fce333-ff0f-4d9b-a6f9-ba1974cb985f.png)
+
+
 
 
 

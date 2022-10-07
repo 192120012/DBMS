@@ -113,6 +113,8 @@
 
 ## Experiment 24 output
 ![image](https://user-images.githubusercontent.com/112066316/194507254-c9fce333-ff0f-4d9b-a6f9-ba1974cb985f.png)
+![image](https://user-images.githubusercontent.com/112066316/194507414-fdd79a4f-deba-49db-b122-cc1c4ee989c0.png)
+
 
 
 

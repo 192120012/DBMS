@@ -95,6 +95,11 @@
 ## Experiment 19 output
 ![image](https://user-images.githubusercontent.com/112066316/194505122-a1532f90-ee7d-4d10-9870-90d9a0a37014.png)
 
+## Experiment 20 output
+![image](https://user-images.githubusercontent.com/112066316/194505462-3a45d16b-2932-41c2-9646-617a03eedb5c.png)
+
+
+
 
 
 
